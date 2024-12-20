@@ -136,7 +136,8 @@ enabled_plugins:
   - 'Ahmia blacklist'
 search:
   safe_search: 2
-  autocomplete: 'google'
+  autocomplete: 'duckduckgo'
+  favicon_resolver: "duckduckgo"
 engines:
   - name: google
     engine: google
